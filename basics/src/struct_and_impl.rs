@@ -16,6 +16,10 @@ pub fn rectangle_impl() {
     };
 
     // println!("rect: {:#?}", rect);
+    let Rectangle {
+        width: rW,
+        height: rH,
+    } = rect;
 
-    println!("rectangle area: {:?}", rect.area());
+    println!("rectangle area: {} - {}", rW, rH);
 }

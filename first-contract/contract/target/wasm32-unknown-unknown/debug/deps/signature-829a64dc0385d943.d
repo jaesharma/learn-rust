@@ -1,0 +1,11 @@
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/signature-829a64dc0385d943.rmeta: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/libsignature-829a64dc0385d943.rlib: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/signature-829a64dc0385d943.d: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs:

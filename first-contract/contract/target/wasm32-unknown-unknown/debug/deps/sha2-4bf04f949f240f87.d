@@ -1,0 +1,12 @@
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/sha2-4bf04f949f240f87.rmeta: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/libsha2-4bf04f949f240f87.rlib: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/deps/sha2-4bf04f949f240f87.d: /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs:
+/Users/rivram/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs:

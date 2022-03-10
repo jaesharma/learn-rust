@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/build/typenum-2c3ca3c34820c0bf/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/rivram/Desktop/learn-rust/first-contract/contract/target/wasm32-unknown-unknown/debug/build/typenum-2c3ca3c34820c0bf/out/op.rs
